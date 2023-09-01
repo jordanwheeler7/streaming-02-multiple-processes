@@ -1,0 +1,73 @@
+2023-08-31 22:23:54,376 - INFO - ===============================================
+2023-08-31 22:23:54,376 - INFO - Starting fake streaming process.
+2023-08-31 22:23:54,376 - INFO - Starting to stream data from orders_deliveries.csv to ('localhost', 9999).
+2023-08-31 22:23:54,377 - INFO - Opened for reading: orders_deliveries.csv.
+2023-08-31 22:23:54,377 - INFO - Skipped header row: ['Country', 'Customer_Name', 'Delivery_Year ', 'Engine', 'Model_Series', 'Order_Month', 'Order_Year', 'Region', 'Delivery_Total', 'Order_Total', 'Unfilled_Orders']
+2023-08-31 22:23:54,380 - INFO - Sent: b'[Afghanistan, Ariana Afghan Airlines, 1968, PW, 727, Mar, 1968, Central Asia, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:23:56,380 - INFO - Sent: b'[Afghanistan, Ariana Afghan Airlines, 1970, PW, 727, Apr, 1969, Central Asia, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:23:58,382 - INFO - Sent: b'[Afghanistan, Ariana Afghan Airlines, 1979, GE, DC-10, Sep, 1978, Central Asia, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:00,383 - INFO - Sent: b'[Afghanistan, Ariana Afghan Airlines, , CF, 737-700, Nov, 2005, Central Asia, 0, 4, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:02,383 - INFO - Sent: b'[Algeria, Air Algerie, 1974, PW, 727, Jan, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:04,384 - INFO - Sent: b'[Algeria, Air Algerie, 1974, PW, 737-200, Jan, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:06,386 - INFO - Sent: b'[Algeria, Air Algerie, 1975, PW, 727, Jan, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:08,387 - INFO - Sent: b'[Algeria, Air Algerie, 1975, PW, 737-200, Jan, 1974, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:10,388 - INFO - Sent: b'[Algeria, Air Algerie, 2015, CF, 737-800, Jan, 2014, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:12,389 - INFO - Sent: b'[Algeria, Air Algerie, 2016, CF, 737-800, Jan, 2014, Africa, 6, 6, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:14,390 - INFO - Sent: b'[Algeria, Air Algerie, 1971, PW, 727, Feb, 1970, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:16,391 - INFO - Sent: b'[Algeria, Air Algerie, 1976, PW, 727, Mar, 1976, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:18,392 - INFO - Sent: b'[Algeria, Air Algerie, 1976, PW, 737-200, Mar, 1976, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:20,392 - INFO - Sent: b'[Algeria, Air Algerie, 1977, PW, 737-200, Mar, 1976, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:22,393 - INFO - Sent: b'[Algeria, Air Algerie, 1976, PW, 727, May, 1975, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:24,395 - INFO - Sent: b'[Algeria, Air Algerie, 1976, PW, 737-200, May, 1975, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:26,396 - INFO - Sent: b'[Algeria, Air Algerie, 1990, GE, 767-300, May, 1989, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:28,397 - INFO - Sent: b'[Algeria, Air Algerie, 2016, CF, 737-700C, May, 2014, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:30,398 - INFO - Sent: b'[Algeria, Air Algerie, 1971, PW, 737-200, Jun, 1970, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:32,399 - INFO - Sent: b'[Algeria, Air Algerie, 1972, PW, 737-200, Jul, 1972, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:34,401 - INFO - Sent: b'[Algeria, Air Algerie, 2000, CF, 737-800, Jul, 1998, Africa, 4, 4, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:36,402 - INFO - Sent: b'[Algeria, Air Algerie, 2001, CF, 737-800, Jul, 1998, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:38,403 - INFO - Sent: b'[Algeria, Air Algerie, 2002, CF, 737-600, Jul, 1998, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:40,404 - INFO - Sent: b'[Algeria, Air Algerie, 1973, PW, 737-200, Sep, 1972, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:42,406 - INFO - Sent: b'[Algeria, Air Algerie, 1983, PW, 737-200, Sep, 1983, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:44,407 - INFO - Sent: b'[Algeria, Air Algerie, 1975, PW, 737-200, Oct, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:46,408 - INFO - Sent: b'[Algeria, Air Algerie, 1980, PW, 727, Oct, 1979, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:48,409 - INFO - Sent: b'[Algeria, Air Algerie, 1981, PW, 727, Oct, 1979, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:50,410 - INFO - Sent: b'[Algeria, Air Algerie, 1982, PW, 727, Nov, 1981, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:52,411 - INFO - Sent: b'[Algeria, Air Algerie, 1982, PW, 737-200, Nov, 1981, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:54,412 - INFO - Sent: b'[Algeria, Air Algerie, 2005, CF, 737-800, Nov, 2003, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:56,413 - INFO - Sent: b'[Algeria, Air Algerie, 2010, CF, 737-800, Nov, 2009, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:24:58,414 - INFO - Sent: b'[Algeria, Air Algerie, 2011, CF, 737-800, Nov, 2009, Africa, 4, 4, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:00,416 - INFO - Sent: b'[Algeria, Air Algerie, 2002, CF, 737-600, Dec, 1999, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:02,417 - INFO - Sent: b'[Algeria, Tassili Airlines, 2018, CF, 737-800, May, 2017, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:04,418 - INFO - Sent: b'[Algeria, Tassili Airlines, 2011, CF, 737-800, Oct, 2009, Africa, 4, 4, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:06,419 - INFO - Sent: b'[Angola, SonAir, 2008, CF, 737-700, Jun, 2006, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:08,420 - INFO - Sent: b'[Angola, SonAir, 2007, CF, 737-700, Dec, 2005, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:10,421 - INFO - Sent: b'[Angola, SonAir, 2008, CF, 737-700C, Dec, 2005, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:12,423 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1985, PW, 737-200, Jan, 1985, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:14,424 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2014, GE, 777-300ER, Mar, 2012, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:16,425 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2016, GE, 777-300ER, Mar, 2012, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:18,426 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1975, PW, 737-200, Apr, 1975, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:20,427 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1976, PW, 737-200, Apr, 1975, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:22,428 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1979, PW, 737-200, Apr, 1979, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:24,429 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1981, PW, 737-200, Apr, 1981, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:26,431 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1982, PW, 737-200, Apr, 1981, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:28,431 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 1985, PW, 737-200, May, 1984, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:30,432 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2006, CF, 737-700, Jul, 2005, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:32,434 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2006, GE, 777-200ER, Jul, 2005, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:34,434 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2007, CF, 737-700, Jul, 2005, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:36,436 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2007, GE, 777-200ER, Oct, 2006, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:38,437 - INFO - Sent: b'[Angola, TAAG Angola Airlines, 2011, GE, 777-300ER, Oct, 2009, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:40,438 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1978, PW, 727, Jan, 1978, South America, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:42,439 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1979, PW, 727, Jan, 1978, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:44,440 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1981, PW, 727, Feb, 1980, South America, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:46,441 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1981, PW, 747-200, Feb, 1980, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:48,443 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1982, PW, 727, Feb, 1980, South America, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:50,444 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1982, PW, 747-200, Feb, 1980, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:52,445 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1976, PW, 747-200, Mar, 1975, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:54,446 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1992, PW, MD-80, Mar, 1989, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:56,447 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1993, PW, MD-80, Mar, 1989, South America, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:25:58,448 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1974, PW, 737-200, Apr, 1974, South America, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:26:00,449 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1992, PW, MD-80, Apr, 1992, South America, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:26:02,451 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1968, PW, 707/720, May, 1968, South America, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:26:04,452 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1973, PW, 737-200, May, 1973, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:26:06,453 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 2009, CF, 737-700, May, 2009, South America, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+2023-08-31 22:26:08,454 - INFO - Sent: b'[Argentina, Aerolineas Argentinas, 1979, PW, 747-200, Jun, 1978, South America, 3, 3, ]' on port 9999. Hit CTRL-c to stop.

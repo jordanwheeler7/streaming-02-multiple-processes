@@ -1,6 +1,20 @@
+# Personal Information
+- Author: [Jordan Wheeler](https://github.com/jordanwheeler7)
+- Repository: [streaming-02-multiple-processes](https://github.com/jordanwheeler7/streaming-02-multiple-processes)
+- Website: [streaming-02-multiple-processes](https://jordanwheeler7.github.io/streaming-02-multiple-processes)
+- CSIS 44671: Streaming Data
+- Module 2
+- 31 August 2023
+
 # streaming-02-multiple-processes
 
 > Multiple processes accessing a shared resource concurrently
+
+## Introduction
+
+This project is a demonstration of multiple processes accessing a shared resource concurrently. The shared resource is a SQLite database. The processes are Python scripts. The demonstration is a simple example of a common problem in concurrent programming. We also introduce a custom stream from a CSV Script. Our csv file came from [Kaggle](https://www.kaggle.com/datasets/nurielreuven/boeing-historical-airplane-orders-deliveries).
+
+We utilize process streaming files to simulate a continous stream of data. This data is then output to .txt files. We utilized two methods for this. The first method was to use logging to write the file to out9.txt. The second method was to use code and write the file to outEXTRA.txt. Both showcase our abilities to write to a file utilizing different methods.
 
 ## Overview
 
@@ -40,13 +54,34 @@ Read the output. Read the code.
 Try to figure out what's going on. 
 
 1. What libraries did we import?
+datetime
+logging
+multiprocessing
+os
+platform
+sqlite3
+sys
+time
 1. Where do we set the TASK_DURATION_SECONDS?
+Right after the logging statement
 1. How many functions are defined? 
+7
 1. What are the function names? 
+recreate_database
+create_table
+drop_table
+insert_pet
+process_one
+process_two
+process_three
 1. In general, what does each function do? 
+Generally, each function tells us what action to take on the database and what order to do it in.
 1. Where does the execution begin? Hint: generally at the end of the file.
+if __name__ == "__main__":
 1. How many processes do we start?
+3
 1. How many records does each process insert?
+6
 
 In this first run, we start 3 processes, 
 each inserting 2 records into a shared database 
@@ -121,15 +156,17 @@ Python has pretty helpful error messages.
 When you get an error, read them carefully. 
 
 - What error do you get?
+    - ERROR - ERROR while P2 inserting pet Cooper: database is locked
 
 ### Database Is Locked Error
 
 Do a web search on the sqlite3 'database is locked' error.
 
 - What do you learn?
+"If you are encountering the “SQLite database is locked” error, it means that the database you are trying to access is already in use by some other process. This can be caused by a number of different reasons, but the most common cause is that another connection to the database has not been properly closed." [Beekeeper Studio](https://www.beekeeperstudio.io/blog/how-to-solve-sqlite-database-is-locked-error#:~:text=If%20you%20are%20encountering%20the%20%E2%80%9CSQLite%20database%20is%20locked%E2%80%9D%20error,has%20not%20been%20properly%20closed.)
 - Once a process fails, it crashes the main process and everything stops. 
 
-### Deadlock
+### Deadlock)
 
 Deadlock is a special kind of locking issue where a process 
 is waiting on a resource or process, that is waiting also. 
@@ -140,3 +177,5 @@ with no process able to move forward and make progress.
 ### Learn More
 
 Check out Wikipedia's article on deadlock and other sources to learn how to prevent and avoid locking issues in concurrent processes. 
+
+

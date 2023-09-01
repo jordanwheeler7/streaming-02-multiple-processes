@@ -1,0 +1,31 @@
+===============================================
+Starting fake streaming process.
+===============================================
+Skipped header row: ['Country', 'Customer_Name', 'Delivery_Year ', 'Engine', 'Model_Series', 'Order_Month', 'Order_Year', 'Region', 'Delivery_Total', 'Order_Total', 'Unfilled_Orders']
+Sent: b'[Afghanistan, Ariana Afghan Airlines, 1968, PW, 727, Mar, 1968, Central Asia, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Afghanistan, Ariana Afghan Airlines, 1970, PW, 727, Apr, 1969, Central Asia, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Afghanistan, Ariana Afghan Airlines, 1979, GE, DC-10, Sep, 1978, Central Asia, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Afghanistan, Ariana Afghan Airlines, , CF, 737-700, Nov, 2005, Central Asia, 0, 4, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1974, PW, 727, Jan, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1974, PW, 737-200, Jan, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1975, PW, 727, Jan, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1975, PW, 737-200, Jan, 1974, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 2015, CF, 737-800, Jan, 2014, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 2016, CF, 737-800, Jan, 2014, Africa, 6, 6, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1971, PW, 727, Feb, 1970, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1976, PW, 727, Mar, 1976, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1976, PW, 737-200, Mar, 1976, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1977, PW, 737-200, Mar, 1976, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1976, PW, 727, May, 1975, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1976, PW, 737-200, May, 1975, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1990, GE, 767-300, May, 1989, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 2016, CF, 737-700C, May, 2014, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1971, PW, 737-200, Jun, 1970, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1972, PW, 737-200, Jul, 1972, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 2000, CF, 737-800, Jul, 1998, Africa, 4, 4, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 2001, CF, 737-800, Jul, 1998, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 2002, CF, 737-600, Jul, 1998, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1973, PW, 737-200, Sep, 1972, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1983, PW, 737-200, Sep, 1983, Africa, 3, 3, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1975, PW, 737-200, Oct, 1974, Africa, 1, 1, ]' on port 9999. Hit CTRL-c to stop.
+Sent: b'[Algeria, Air Algerie, 1980, PW, 727, Oct, 1979, Africa, 2, 2, ]' on port 9999. Hit CTRL-c to stop.
